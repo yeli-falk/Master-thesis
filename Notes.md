@@ -55,3 +55,15 @@ QUESTIONS:
 Did not find papers on classification using those factors
 
 
+__________________________________
+
+
+
+https://uu.diva-portal.org/smash/get/diva2:1120776/FULLTEXT01.pdf - they seem to have a dataset with NIR images of drunk drivers
+
+interesting paper about driving behavious analysis - https://www.researchgate.net/publication/339125878_Random_forest-based_feature_selection_and_detection_method_for_drunk_driving_recognition
+
+
+
+
+
