@@ -62,7 +62,9 @@ __________________________________
 https://uu.diva-portal.org/smash/get/diva2:1120776/FULLTEXT01.pdf - they seem to have a dataset with NIR images of drunk drivers
 
 interesting paper about driving behavious analysis - https://www.researchgate.net/publication/339125878_Random_forest-based_feature_selection_and_detection_method_for_drunk_driving_recognition
-
+also here
+https://www.researchgate.net/publication/365100502_Driver_state_prediction_from_vehicle_signals_An_evaluation_of_segmentation_approaches
+combine the data??
 
 
 
