@@ -45,7 +45,7 @@ compared with an age-matched sober group - https://www.sciencedirect.com/science
 
 *fun fact: materials promoting responsible drinking might be counter-productive by increasing real life alcohol consumption :)*
 
-?? sEVERAL STUDIES SHOW ATTENTIONAL BIAS TOWARDS ALCOHOL-RELATED STIMULI. cAN ALCOHOL PRESENCE (IMAGES ETC) DISTRACT THE DRIVER
+?? Several studies show attention bias towards alcohol-related stimuli. Can alcohol presence (images etc) distract the driver??
 
 QUESTIONS:
 1. what alcoholic stage do these effects start in? is it only for acute alcohol consumption?
