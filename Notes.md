@@ -81,6 +81,8 @@ ______________
 Found a bunch of other papers on Drunk Classification using Thermal Imaging, which contain their own sober-drunk datasets
 Might be a good idea to combine it all to verify their findings
 
+https://ieeexplore.ieee.org/document/8697908
+
 glasses/masks?
 
 Drunkenness Diagnosis Using a Neural Network-
