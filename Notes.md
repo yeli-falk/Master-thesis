@@ -57,6 +57,9 @@ QUESTIONS:
 
 Did not find papers on classification using those factors
 
+Automaker Volvo recently announced that its future vehicles will pack an AI-based feature that will attentively track eye movement to determined if the driver is distracted or intoxicated. 
+https://www.trendhunter.com/trends/preventing-drunk-driving
+
 
 __________________________________
 
