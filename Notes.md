@@ -39,7 +39,8 @@ however different results here https://onlinelibrary.wiley.com/doi/10.1002/hup.3
 
 - !! 8 dilation speed (pupillary light reflex) https://occup-med.biomedcentral.com/articles/10.1186/s12995-021-00330-2 2021
 *try to use their data for classification?*
-- blinking frequency? (to confirm)
+- 9 blinking frequency? (to confirm)
+- 10 blink duration?
 
 !!!!eye movements’ impairment of intoxicated individuals did not reach significance when
 compared with an age-matched sober group - https://www.sciencedirect.com/science/article/pii/S1752928X13001868?via%3Dihub 2013
