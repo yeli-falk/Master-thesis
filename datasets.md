@@ -21,13 +21,11 @@ Subjects attended the robotics lab wherethey rested for 30 minutes to stabilise 
 The thermal camera used was a FLIRTAU 2 with a resolution of 640 × 480 pixels, a framerate of 30 frames per second, thermal sensitivity of 50 mK,and a spectrum range between 7.5 and 13.5 μm. The database included 46 individuals with five subsets, a total of 250images per subject and 50 images per subset. The set is clas-sified into 5 subsets: “Sober,” “1 Beer,” “2 Beers,” “3 Beers,”and “4 Beers,” corresponding to the procedure of capturingthe databas 
 
 
-
-
-3. Source: 
+3. Source: https://www.semanticscholar.org/paper/Drunkenness-diagnosis-using-a-Neural-Network-based-Neagoe-Carata/a4d921e3b404e02acfab055310be6e1f41c0c6e4
 Authors: 
 Status: 
 Data description:*requested*
-https://www.semanticscholar.org/paper/Drunkenness-diagnosis-using-a-Neural-Network-based-Neagoe-Carata/a4d921e3b404e02acfab055310be6e1f41c0c6e4
+
 We have built an experimental thermal infrared facial image database of 10 subjects (6 males and 4 females). 
 The thermal images of each subject have been acquired both for sober condition 
 and also for inebriation condition obtained after the person drank a specific amount of alcohol. 
