@@ -77,6 +77,9 @@ ______________
 
 **Thermal**
 
+Found a bunch of other papers on Drunk Classification using Thermal Imaging, which contain their own sober-drunk datasets
+Might be a good idea to combine it all to verify their findings
+
 Drunkenness Diagnosis Using a Neural Network-
 Based Approach for Analysis of Facial Images
 in the Thermal Infrared Spectrum https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7995387 2017
