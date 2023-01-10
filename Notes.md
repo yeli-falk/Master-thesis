@@ -77,4 +77,6 @@ ______________
 
 **Thermal**
 
-https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7995387 2017
+Drunkenness Diagnosis Using a Neural Network-
+Based Approach for Analysis of Facial Images
+in the Thermal Infrared Spectrum https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7995387 2017
