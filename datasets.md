@@ -38,3 +38,7 @@ https://www.semanticscholar.org/paper/Drunkenness-diagnosis-using-a-Neural-Netwo
 We have built an experimental thermal infrared facial image database of 10 subjects (6 males and 4 females). 
 The thermal images of each subject have been acquired both for sober condition 
 and also for inebriation condition obtained after the person drank a specific amount of alcohol. 
+
+5. *requested*
+
+[https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8284106](https://www.semanticscholar.org/paper/Analysis-and-modeling-of-alcohol-intoxication-from-Kub%C3%ADcek-Augustynek/f79af78d2b984cac62ca8f7a0e2dd8784ff7fbe5)
