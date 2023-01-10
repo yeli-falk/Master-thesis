@@ -36,7 +36,7 @@ however different results here https://onlinelibrary.wiley.com/doi/10.1002/hup.3
 
 - !! 7 the degree of linkage between eye and steering movements was reduced even at mild BAC (https://www.nature.com/articles/1301458) 
 
----
+--other papers--
 
 - !! 8 dilation speed (pupillary light reflex) https://occup-med.biomedcentral.com/articles/10.1186/s12995-021-00330-2 2021
 *try to use their data for classification?*
@@ -78,13 +78,17 @@ ______________
 
 
 **THERMAL**
+Main reference: "2012 - Drunk person identification using thermal infrared images" and their SOBER-DRUNK dataset"
+<br/>https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/imported/67560_IJESDF-drunk-26925.pdf
 
-Found a bunch of other papers on Drunk Classification using Thermal Imaging, which contain their own sober-drunk datasets
-Might be a good idea to combine it all to verify their findings
+
+Found a bunch of other newer papers on Drunk Classification using Thermal Imaging, using more advanced Classification methods and reaching valid accuracy 85%+. Some of them contain their own sober-drunk datasets (see *databases.md*).
+- Might be a good idea to combine the data and verify their results;
+- Attempt classification on people wearing glasses/masks? (synthetic images)
+
 
 https://ieeexplore.ieee.org/document/8697908
 
-glasses/masks?
 
 Drunkenness Diagnosis Using a Neural Network-
 Based Approach for Analysis of Facial Images
