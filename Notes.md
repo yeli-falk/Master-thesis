@@ -70,3 +70,11 @@ combine the data??
 
 
 
+
+
+______________
+
+
+**Thermal**
+
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7995387 2017
