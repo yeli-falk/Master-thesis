@@ -1,7 +1,10 @@
-1. thermal data from the face and hands (available online)
+
+**THERMAL IMAGING**
+
+1. thermal data from the face and hands (available online) (wine)
 
 2. *requested*
-might be combined with https://www.researchgate.net/publication/322830705_Face_Recognition_and_Drunk_Classification_Using_Infrared_Face_Images
+might be combined with https://www.researchgate.net/publication/322830705_Face_Recognition_and_Drunk_Classification_Using_Infrared_Face_Images 
 
 
 3. *requested*
@@ -30,4 +33,8 @@ More results from the study can be found in Ljungblad, Hök,
 and Pettersson (2016). The camera used for video recordings
 operated at 60 Hz. 
 
-3. 
+4. *requested*
+https://www.semanticscholar.org/paper/Drunkenness-diagnosis-using-a-Neural-Network-based-Neagoe-Carata/a4d921e3b404e02acfab055310be6e1f41c0c6e4
+We have built an experimental thermal infrared facial image database of 10 subjects (6 males and 4 females). 
+The thermal images of each subject have been acquired both for sober condition 
+and also for inebriation condition obtained after the person drank a specific amount of alcohol. 
