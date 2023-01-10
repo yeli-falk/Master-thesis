@@ -1,4 +1,7 @@
 1. thermal data from the face and hands (available online)
+2. might be combined with https://www.researchgate.net/publication/322830705_Face_Recognition_and_Drunk_Classification_Using_Infrared_Face_Images
+
+
 2. *requested*
 https://uu.diva-portal.org/smash/get/diva2:1120776/FULLTEXT01.pdf
 Ten subjects were included in the first human
