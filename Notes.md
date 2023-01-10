@@ -6,7 +6,8 @@ Week 0. 05.01.2023
 2. physiological
 
 
-
+________________________
+**EYE MOVEMENTS**
 
 
 
@@ -60,8 +61,8 @@ Did not find papers on classification using those factors
 __________________________________
 
 
+**DRIVING BEHAVIOUR**
 
-https://uu.diva-portal.org/smash/get/diva2:1120776/FULLTEXT01.pdf - they seem to have a dataset with NIR images of drunk drivers
 
 interesting paper about driving behavious analysis - https://www.researchgate.net/publication/339125878_Random_forest-based_feature_selection_and_detection_method_for_drunk_driving_recognition
 also here
@@ -76,7 +77,7 @@ combine the data??
 ______________
 
 
-**Thermal**
+**THERMAL**
 
 Found a bunch of other papers on Drunk Classification using Thermal Imaging, which contain their own sober-drunk datasets
 Might be a good idea to combine it all to verify their findings
@@ -88,3 +89,7 @@ glasses/masks?
 Drunkenness Diagnosis Using a Neural Network-
 Based Approach for Analysis of Facial Images
 in the Thermal Infrared Spectrum https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7995387 2017
+
+________
+
+**NIR CAMERAS**
