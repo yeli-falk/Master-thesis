@@ -86,10 +86,13 @@ Main reference: "2012 - Drunk person identification using thermal infrared image
 
 
 Found a bunch of other newer papers on Drunk Classification using Thermal Imaging, using more advanced Classification methods and reaching valid accuracy 85%+. Some of them contain their own sober-drunk datasets (see *databases.md*).
+
 - Might be a good idea to combine the data and verify their results;
 - Attempt classification on people wearing glasses/masks? (synthetic images);
 - The data was not collected in driving settings (does it matter?).
 
+Paper on synthetic data thremal images:
+https://ieeexplore.ieee.org/abstract/document/9445031
 
 https://ieeexplore.ieee.org/document/8697908
 
