@@ -37,7 +37,7 @@ and the other 20 for “drunkenness“ condition.
 Breath Analysis"
 <br/>https://www.semanticscholar.org/paper/Analysis-and-modeling-of-alcohol-intoxication-from-Kub%C3%ADcek-Augustynek/f79af78d2b984cac62ca8f7a0e2dd8784ff7fbe5
 <br/>Authors: Jan Kubicek (jan.kubicek@vsb.cz), Marek Penhaker, Martin Augustynek, Martin Cerny, David Oczka
-<br/>Status: *requested*
+<br/>Status: *received*
 <br/>Data description: We have set a compromise a number of the
 segmentation classes (N=6).
 We have analysed a set of 20 volunteers who
